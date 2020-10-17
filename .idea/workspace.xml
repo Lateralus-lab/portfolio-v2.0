@@ -1,13 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2bfc85b9-2c90-491f-a228-b31667904ea7" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="ae19df57-5f83-45bd-a8a3-7085aba9dda7" name="Default Changelist" comment="" />
+>>>>>>> dbb998d6a91e5d48ebf287da2bf0487dff815c98
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="TaskManager">
     <servers />
   </component>
+=======
+  <component name="ProjectId" id="1j0cxGJtgwQJEq32SrahuEloEct" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae19df57-5f83-45bd-a8a3-7085aba9dda7" name="Default Changelist" comment="" />
+      <created>1602944694881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602944694881</updated>
+      <workItem from="1602944695908" duration="6723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2412" y="830" width="824" height="525" key="IDE.errors.dialog" timestamp="1602944752330">
+      <screen x="0" y="30" width="3840" height="2130" />
+    </state>
+    <state x="2412" y="830" width="824" height="525" key="IDE.errors.dialog/0.30.3840.2130@0.30.3840.2130" timestamp="1602944752330" />
+  </component>
+>>>>>>> dbb998d6a91e5d48ebf287da2bf0487dff815c98
 </project>
