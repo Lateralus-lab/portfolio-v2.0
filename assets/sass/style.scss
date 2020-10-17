@@ -1,3 +1,31 @@
-body {
-    margin: 0;
+@import "vars";
+
+html {
+  @font-face {
+    font-family: 'Roboto';
+    src: url('/assets/fonts/roboto-v20-latin-300.eot');
+    src: local('Roboto Light'), local('Roboto-Light'), url('/assets/fonts/roboto-v20-latin-300.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/roboto-v20-latin-300.woff2') format('woff2'), url('/assets/fonts/roboto-v20-latin-300.woff') format('woff'), url('/assets/fonts/roboto-v20-latin-300.ttf') format('truetype'), url('/assets/fonts/roboto-v20-latin-300.svg#Roboto') format('svg');
+  }
+  font-size: 16px;
 }
+
+// Default styles
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: $roboto_family;
+  color: $font_dark;
+  font-size: 1rem;
+  line-height: 1.42;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+// Blocks
+@import "blocks/mountains";
+@import "blocks/welcome";
