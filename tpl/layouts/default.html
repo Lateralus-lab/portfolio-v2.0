@@ -2,11 +2,24 @@
 <html lang="en">
 
 <head>
-    {{> head }}
+  {{> head }}
 </head>
 
+{{> sprite }}
+
 <body>
+<div class="page">
+  <!-- Header -->
+  {{> header }}
+
+  <!-- content -->
+  <div class="content">
     {{> body }}
+  </div>
+
+  <!-- Footer -->
+  {{> footer }}
+</div>
 </body>
 
 </html>

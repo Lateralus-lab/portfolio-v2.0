@@ -1,0 +1,36 @@
+.welcome {
+  background-color: #fcfcfc;
+  border-radius: 5px;
+  opacity: .85;
+}
+
+.welcome__inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.welcome__img {
+  margin: 40px 0 20px;
+}
+
+.welcome__name {
+  margin-bottom: 10px;
+
+  font-size: 1.75rem;
+  font-weight: 500;
+}
+
+.welcome__desc {
+  max-width: 300px;
+  width: 100%;
+  margin: 0 68px 37px;
+
+  font-size: 1rem;
+  color: $font_dark;
+  text-align: center;
+}
+
+
