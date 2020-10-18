@@ -1,0 +1,21 @@
+.social {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 130px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.social__icon {
+  width: 26px;
+  height: 26px;
+
+  fill: $bg_green;
+
+  transition: fill .2s linear;
+
+  &:hover {
+    fill: $bg_green-hover;
+  }
+}
