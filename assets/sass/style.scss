@@ -26,6 +26,15 @@ body {
   box-sizing: border-box;
 }
 
+ul, li {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
 // Blocks
 @import "blocks/mountains";
 @import "blocks/welcome";
+@import "blocks/social";
+@import "blocks/menu";

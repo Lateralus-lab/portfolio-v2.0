@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="2bfc85b9-2c90-491f-a228-b31667904ea7" name="Default Changelist" comment="" />
+=======
     <list default="true" id="ae19df57-5f83-45bd-a8a3-7085aba9dda7" name="Default Changelist" comment="" />
+>>>>>>> dbb998d6a91e5d48ebf287da2bf0487dff815c98
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="TaskManager">
+    <servers />
+  </component>
+=======
   <component name="ProjectId" id="1j0cxGJtgwQJEq32SrahuEloEct" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,4 +49,5 @@
     </state>
     <state x="2412" y="830" width="824" height="525" key="IDE.errors.dialog/0.30.3840.2130@0.30.3840.2130" timestamp="1602944752330" />
   </component>
+>>>>>>> dbb998d6a91e5d48ebf287da2bf0487dff815c98
 </project>
