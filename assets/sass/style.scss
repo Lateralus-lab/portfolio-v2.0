@@ -18,6 +18,8 @@ body {
   color: $font_dark;
   font-size: 1rem;
   line-height: 1.42;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
 }
 
 *,
@@ -36,6 +38,7 @@ ul, li {
 // Blocks
 @import "blocks/page";
 @import "blocks/header";
+@import "blocks/burger";
 @import "blocks/content";
 @import "blocks/welcome";
 @import "blocks/social";
