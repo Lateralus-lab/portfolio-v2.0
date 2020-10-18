@@ -34,7 +34,10 @@ ul, li {
 }
 
 // Blocks
-@import "blocks/mountains";
+@import "blocks/page";
+@import "blocks/header";
+@import "blocks/content";
 @import "blocks/welcome";
 @import "blocks/social";
 @import "blocks/menu";
+@import "blocks/footer";
