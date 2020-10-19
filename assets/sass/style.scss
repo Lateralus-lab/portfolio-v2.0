@@ -28,6 +28,11 @@ body {
   box-sizing: border-box;
 }
 
+::selection {
+  background-color: $bg_green;
+  color: $font_white;
+}
+
 ul, li {
   margin: 0;
   padding: 0;
@@ -44,3 +49,4 @@ ul, li {
 @import "blocks/social";
 @import "blocks/menu";
 @import "blocks/footer";
+@import "blocks/nav";
