@@ -19,7 +19,9 @@ body {
   font-size: 1rem;
   line-height: 1.42;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: $bg_green;
 }
 
 *,
@@ -42,11 +44,12 @@ ul, li {
 
 // Blocks
 @import "blocks/page";
+@import "blocks/loader";
 @import "blocks/header";
 @import "blocks/burger";
+@import "blocks/nav";
 @import "blocks/content";
 @import "blocks/welcome";
 @import "blocks/social";
 @import "blocks/menu";
 @import "blocks/footer";
-@import "blocks/nav";
