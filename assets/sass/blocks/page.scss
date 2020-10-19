@@ -1,15 +1,18 @@
 .page {
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  overflow: auto;
 
   background-color: $font_dark;
+  opacity: 0;
+
+  transition: opacity 1s ease-in;
 
   &--welcome {
     height: 100vh;
     overflow: auto;
+    opacity: 1;
 
     background-image: url("/assets/img/welcome/welcome_bg.jpg");
     background-repeat: no-repeat;
