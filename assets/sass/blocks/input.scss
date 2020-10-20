@@ -1,0 +1,29 @@
+.input {
+  padding: 18px 20px;
+  width: 100%;
+
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid #0fbabd;
+
+  font-family: inherit;
+  font-size: .8rem;
+  color: #373e42;
+  font-weight: 400;
+
+  &-textarea {
+    max-width: 330px;
+    max-height: 500px;
+    min-height: 100px;
+    min-width: 100%;
+    height: 100px;
+  }
+
+  &::placeholder {
+    opacity: .5;
+  }
+
+  &:focus {
+    border-bottom: 2px solid #009688;
+  }
+}

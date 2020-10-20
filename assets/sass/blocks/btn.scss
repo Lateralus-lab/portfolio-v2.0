@@ -1,0 +1,20 @@
+.btn {
+  width: 100%;
+  padding: 1rem 0;
+
+  background-color: $bg_green;
+  border: 0;
+  border-radius: 5px;
+
+  font-family: inherit;
+  font-size: 1rem;
+  color: $font_white;
+  font-weight: 700;
+  cursor: pointer;
+
+  transition: background .2s linear;
+
+  &:hover {
+    background-color: $bg_green-hover;
+  }
+}
