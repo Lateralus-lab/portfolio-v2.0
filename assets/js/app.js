@@ -2,6 +2,7 @@
 //= components/vars.js
 //= components/loader.js
 //= components/navMenu.js
+//= components/modal.js
 
 $(function () {
 //= components/parallaxWelcome.js

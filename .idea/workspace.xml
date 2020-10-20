@@ -20,38 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/btn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-300.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-300.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-300.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-300.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-300.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-500.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-500.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-500.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-500.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-500.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-700.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-700.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto-v20-latin-regular.woff2" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/components/modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/components/vars.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/components/vars.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tpl/partials/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/modal.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603216790941</updated>
-      <workItem from="1603216796493" duration="5836000" />
+      <workItem from="1603216796493" duration="9766000" />
     </task>
     <servers />
   </component>
@@ -99,5 +73,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2501" y="525" key="run.anything.popup" timestamp="1603227329797">
+      <screen x="0" y="30" width="3840" height="2130" />
+    </state>
+    <state x="2501" y="525" key="run.anything.popup/0.30.3840.2130@0.30.3840.2130" timestamp="1603227329797" />
   </component>
 </project>
