@@ -15,10 +15,17 @@
 }
 
 .modal__inner {
-  width: 400px;
+  max-width: 380px;
+  width: 100%;
   padding: 25px;
+  position: relative;
 
-  background-color: $font_white;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 10px;
+
+  &.button {
+    padding: 0;
+  }
 }
 
 .modal__header {
@@ -38,5 +45,31 @@
 }
 
 .modal__text {
-  font-size: .9rem;
+  font-size: .8rem;
+}
+
+.modal__close {
+  width: 20px;
+  height: 20px;
+  padding: 0;
+
+  background: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+
+  position: absolute;
+  top: -22px;
+  right: -28px;
+  z-index: 1;
+
+  transition: transform .2s linear;
+
+  &:hover {
+    transform: rotate(180deg);
+  }
+
+  & > img {
+    display: block;
+  }
 }
