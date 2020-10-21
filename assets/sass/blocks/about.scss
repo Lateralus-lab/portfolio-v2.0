@@ -9,14 +9,14 @@
   width: 100%;
 }
 
-
 .about__img {
-  width: 800px;
+  width: 100%;
 
-  fill: $font_white;
+  fill: $font_dark;
   opacity: .3;
 
   position: absolute;
-  right: -332px;
-  top: -176px;
+  top: -66px;
+  left: 9px;
+  z-index: 1;
 }

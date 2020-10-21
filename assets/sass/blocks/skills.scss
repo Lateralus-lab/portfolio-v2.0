@@ -1,0 +1,32 @@
+.skills {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skills__inner {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+  @media (max-width: $breakdown_lg) {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.skills__item {
+  width: 50%;
+
+  &:first-child {
+    background-color: #EFEEE9;
+  }
+
+  &:last-child {
+    background-color: #EEEBE0;
+  }
+
+  @media (max-width: $breakdown_lg) {
+    width: 100%;
+  }
+}
+

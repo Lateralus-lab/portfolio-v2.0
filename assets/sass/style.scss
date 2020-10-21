@@ -38,6 +38,11 @@ body {
   color: $font_white;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
 ul, li {
   margin: 0;
   padding: 0;
@@ -58,6 +63,8 @@ ul, li {
 @import "blocks/social";
 @import "blocks/arrow";
 @import "blocks/menu";
+@import "blocks/skills";
+@import "blocks/info";
 @import "blocks/footer";
 @import "blocks/modal";
 @import "blocks/form";
