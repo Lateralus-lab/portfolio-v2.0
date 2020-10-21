@@ -15,8 +15,6 @@ body {
   margin: 0;
   padding: 0;
 
-  background-color: $bg_green;
-
   font-family: $roboto_family;
   color: $font_dark;
   font-size: 1rem;
@@ -55,7 +53,10 @@ ul, li {
 @import "blocks/nav";
 @import "blocks/content";
 @import "blocks/welcome";
+@import "blocks/about";
+@import "blocks/user";
 @import "blocks/social";
+@import "blocks/arrow";
 @import "blocks/menu";
 @import "blocks/footer";
 @import "blocks/modal";

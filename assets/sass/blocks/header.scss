@@ -4,3 +4,14 @@
   padding: 2rem 2rem 0;
   width: 100%;
 }
+
+.header__inner {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+
+  &header__inner--about {
+    justify-content: space-between;
+  }
+}

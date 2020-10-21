@@ -20,9 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/about_bg_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/about/about_bg_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/arrow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/user.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/layouts/secondary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/partials/about-content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/partials/header-about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tpl/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/sprite.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/sprite.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +59,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/about" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

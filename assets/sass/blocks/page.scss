@@ -3,21 +3,24 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 100vh;
+  opacity: .7;
 
   background-color: $font_dark;
-  opacity: 0;
+  background-image: url("/assets/img/welcome/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 
   transition: opacity 1s ease-in;
 
-  &--welcome {
-    height: 100vh;
-    overflow: auto;
-    opacity: 1;
 
-    background-color: rgb(29, 48, 64);
-    background-image: url("/assets/img/welcome/bg.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+  &--secondary {
+    min-height: 100%;
+    position: relative;
+    opacity: .7;
+
+    background-attachment: fixed;
   }
 }
+

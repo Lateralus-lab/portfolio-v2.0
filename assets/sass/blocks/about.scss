@@ -1,0 +1,22 @@
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about__item {
+  max-width: 436px;
+  width: 100%;
+}
+
+
+.about__img {
+  width: 800px;
+
+  fill: $font_white;
+  opacity: .3;
+
+  position: absolute;
+  right: -332px;
+  top: -176px;
+}
