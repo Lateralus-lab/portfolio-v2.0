@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/value.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tpl/partials/about-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/about-content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -62,6 +64,7 @@
       <updated>1603216790941</updated>
       <workItem from="1603216796493" duration="9766000" />
       <workItem from="1603292396989" duration="9751000" />
+      <workItem from="1603395009131" duration="868000" />
     </task>
     <servers />
   </component>
@@ -81,6 +84,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="5488" y="558" width="442" height="1069" key="#HTML" timestamp="1603395876434">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="5488" y="558" width="442" height="1069" key="#HTML/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1603395876434" />
+    <state x="3875" y="535" key="SettingsEditor" timestamp="1603393715633">
+      <screen x="2880" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3875" y="535" key="SettingsEditor/2880.0.3840.2160/0.180.2880.1800@2880.0.3840.2160" timestamp="1603393715633" />
     <state x="2501" y="525" key="run.anything.popup" timestamp="1603227329797">
       <screen x="0" y="30" width="3840" height="2130" />
     </state>
