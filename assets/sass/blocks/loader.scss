@@ -7,10 +7,10 @@
 
   background-color: rgba(0, 174, 171, .7);
 
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
-  z-index: 110;
+  z-index: 1000;
 }
 
 .loader__item {

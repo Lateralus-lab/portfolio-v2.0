@@ -1,0 +1,24 @@
+.value {
+  margin-top: 120px;
+  padding: 0 65px 0 40px;
+}
+
+.value__title {
+  margin-bottom: 40px;
+
+  font-size: 2.1rem;
+  font-weight: 400;
+  color: $font_dark;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.value__desc {
+  margin-bottom: 56px;
+
+  font-size: 1rem;
+  color: $font_dark;
+  font-weight: 400;
+}
+
+
