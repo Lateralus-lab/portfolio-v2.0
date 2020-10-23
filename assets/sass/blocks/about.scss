@@ -10,13 +10,20 @@
 }
 
 .about__img {
-  width: 100%;
+  width: 172%;
 
   fill: $font_dark;
   opacity: .3;
 
   position: absolute;
-  top: -66px;
-  left: 9px;
+  top: -84px;
+  left: -47px;
   z-index: 1;
+
+  @media (max-width: $breakdown_xxl) {
+    width: 100%;
+
+    top: -66px;
+    left: 9px;
+  }
 }
