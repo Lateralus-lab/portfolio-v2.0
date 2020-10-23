@@ -50,6 +50,7 @@
   max-width: 500px;
   width: 100%;
   margin-right: auto;
+  margin-bottom: 15px;
 }
 
 .info__desc {
@@ -63,5 +64,9 @@
 
   @media (max-width: $breakdown_xl) {
     padding: 0 8px;
+  }
+
+  @media (max-width: $breakpoint_md) {
+    padding: 0 15px;
   }
 }

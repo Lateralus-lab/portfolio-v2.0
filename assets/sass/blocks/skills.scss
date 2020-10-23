@@ -23,6 +23,9 @@
 
   &:last-child {
     background-color: #EEEBE0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   @media (max-width: $breakdown_lg) {

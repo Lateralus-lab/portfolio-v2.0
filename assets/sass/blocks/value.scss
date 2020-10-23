@@ -1,21 +1,55 @@
 .value {
-  margin-top: 120px;
+  max-width: 800px;
+  width: 100%;
   padding: 0 65px 0 40px;
+
+  @media (max-width: $breakdown_xxl) {
+    margin-top: 20px;
+  }
+}
+
+.value__item {
+  display: flex;
+  justify-content: center;
 }
 
 .value__title {
+  width: 300px;
   margin-bottom: 40px;
+  position: relative;
 
   font-size: 2.1rem;
   font-weight: 400;
   color: $font_dark;
   text-transform: uppercase;
   text-align: center;
+
+  &:before, &:after {
+    content: '';
+    width: 40px;
+    height: 4px;
+
+    background-color: $font_dark;
+    border-radius: 5px;
+    opacity: .3;
+
+    position: absolute;
+    top: 24px;
+  }
+
+  &:before {
+    left: 295px;
+  }
+
+  &:after {
+    right: 295px;
+  }
 }
 
 .value__desc {
   margin-bottom: 56px;
 
+  text-align: center;
   font-size: 1rem;
   color: $font_dark;
   font-weight: 400;
