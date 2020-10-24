@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/bottom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/section.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/partials/bottom.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/layouts/secondary.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/layouts/secondary.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +73,7 @@
       <workItem from="1603461581073" duration="1021000" />
       <workItem from="1603478966832" duration="6136000" />
       <workItem from="1603535115435" duration="606000" />
+      <workItem from="1603578050998" duration="4161000" />
     </task>
     <servers />
   </component>
