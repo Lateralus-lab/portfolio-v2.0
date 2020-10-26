@@ -20,8 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/partials/footer-sec.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/footer-sec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/arrow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/arrow.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/info.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/user.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/user.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/value.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/value.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/sprite.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/sprite.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

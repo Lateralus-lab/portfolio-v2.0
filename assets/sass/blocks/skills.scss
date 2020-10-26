@@ -8,7 +8,7 @@
   display: flex;
   justify-content: space-between;
 
-  @media (max-width: $breakdown_lg) {
+  @media (max-width: $breakpoint_lg) {
     flex-direction: column;
     justify-content: center;
   }
@@ -28,7 +28,7 @@
     align-items: center;
   }
 
-  @media (max-width: $breakdown_lg) {
+  @media (max-width: $breakpoint_lg) {
     width: 100%;
   }
 }
