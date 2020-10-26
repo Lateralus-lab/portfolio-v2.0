@@ -1,0 +1,46 @@
+.footer-sec {
+  width: 100%;
+  padding: 30px 0;
+
+  background-color: rgba(55, 62, 66, .85);
+}
+
+.footer-sec__top {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.footer-sec__link {
+  margin-left: 2rem;
+
+  font-size: 1rem;
+  font-weight: 500;
+  color: $font_white;
+  text-decoration: none;
+
+  transition: color .2s linear;
+
+  &:hover {
+    color: $bg_green;
+  }
+}
+
+.footer-sec__social {
+  max-width: 205px;
+  width: 100%;
+}
+
+.footer-sec__bottom {
+  margin: 0 2rem;
+}
+
+.footer-sec__copy {
+  margin-top: 30px;
+
+  font-size: 1rem;
+  font-weight: 300;
+  color: $font_white;
+  text-align: center;
+
+}
