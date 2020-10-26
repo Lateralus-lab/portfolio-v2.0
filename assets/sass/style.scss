@@ -50,6 +50,11 @@ ul, li {
   list-style: none;
 }
 
+hr {
+  margin: 20px;
+  opacity: .3;
+}
+
 // Blocks
 @import "blocks/page";
 @import "blocks/loader";
@@ -67,7 +72,12 @@ ul, li {
 @import "blocks/info";
 @import "blocks/value";
 @import "blocks/stack";
+@import "blocks/wrapper";
+@import "blocks/bottom";
+@import "blocks/section";
+@import "blocks/contact";
 @import "blocks/footer";
+@import "blocks/footer-sec";
 @import "blocks/modal";
 @import "blocks/form";
 @import "blocks/input";

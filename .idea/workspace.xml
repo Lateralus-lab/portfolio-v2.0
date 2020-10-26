@@ -20,14 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/footer-sec.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/partials/footer-sec.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/stack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/stack.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/value.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/value.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/partials/about-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/about-content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/layouts/secondary.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/layouts/secondary.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,9 @@
       <workItem from="1603292396989" duration="9751000" />
       <workItem from="1603395009131" duration="7459000" />
       <workItem from="1603461581073" duration="1021000" />
-      <workItem from="1603478966832" duration="5385000" />
+      <workItem from="1603478966832" duration="6136000" />
+      <workItem from="1603535115435" duration="606000" />
+      <workItem from="1603578050998" duration="4161000" />
     </task>
     <servers />
   </component>

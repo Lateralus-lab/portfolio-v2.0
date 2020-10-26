@@ -1,0 +1,14 @@
+.section {
+  width: 100%;
+  height: 100%;
+}
+
+.section__title {
+  margin-top: 70px;
+  margin-bottom: 380px;
+
+  font-size: 3.9rem;
+  font-weight: 500;
+  color: $title_color;
+  text-transform: uppercase;
+}
