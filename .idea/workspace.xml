@@ -20,10 +20,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/bernier/bernierregular-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/bernier/bernierregular-regular-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/bernier/berniershade-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/bernier/berniershade-regular-webfont.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-500.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-500.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-500.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-500.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/roboto/roboto-v20-latin-regular.woff2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/blocks/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/stack.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/stack.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/value.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/value.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/vars.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +94,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts/bernier" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/fonts/bernier" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/about" />
     </key>
@@ -70,7 +122,10 @@
       <workItem from="1603535115435" duration="606000" />
       <workItem from="1603578050998" duration="4161000" />
       <workItem from="1603717701059" duration="1005000" />
-      <workItem from="1603727640521" duration="997000" />
+      <workItem from="1603727640521" duration="5529000" />
+      <workItem from="1603740878516" duration="605000" />
+      <workItem from="1603782662119" duration="604000" />
+      <workItem from="1603809700896" duration="2436000" />
     </task>
     <servers />
   </component>

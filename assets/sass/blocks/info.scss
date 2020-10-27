@@ -22,6 +22,7 @@
 .info__title {
   margin-right: 100px;
 
+  font-family: $secondary_family;
   font-size: 3.9rem;
 
   &:before, &:after {
@@ -71,7 +72,6 @@
   max-width: 500px;
   width: 100%;
 
-  font-family: $roboto_family;
   font-size: 1rem;
   font-weight: 400;
   color: $font_dark;
