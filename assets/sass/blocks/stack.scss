@@ -10,26 +10,50 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 .stack__list-item {
   margin-right: 50px;
+  margin-bottom: 20px;
+  width: 130px;
+
+  @media (max-width: $breakpoint_xxl) {
+    width: 200px;
+  }
+
+  @media (max-width: $breakpoint_xl) {
+    width: 40%;
+    margin-right: 0;
+  }
+
+  @media (max-width: $breakpoint_lg) {
+    width: 23%;
+  }
+
+  @media (max-width: $breakpoint_md) {
+    width: 34%;
+  }
+
+  @media (max-width: $breakpoint_sm) {
+    width: 45%;
+  }
 }
 
 .stack__name {
   display: inline-block;
-  width: 100px;
-  height: 100px;
+  width: 130px;
+  height: 130px;
   overflow: hidden;
   margin-bottom: 15px;
 
-  border: 15px solid $bg_green;
+  border: 20px solid $bg_green;
   border-radius: 50%;
 
   color: $bg_green;
-  font-size: .9rem;
+  font-size: 1rem;
   font-weight: 500;
-  line-height: 72px;
+  line-height: 94px;
   text-align: center;
   vertical-align: middle;
 }

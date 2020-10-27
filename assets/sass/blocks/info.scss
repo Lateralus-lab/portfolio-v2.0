@@ -1,12 +1,16 @@
 .info {
   display: flex;
-  justify-content: space-evenly;
-  margin: 20px 0;
+  justify-content: flex-end;
+  margin: 150px 80px 150px 0;
 
-  @media (max-width: $breakdown_xxl) {
+  @media (max-width: $breakpoint_xxl) {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+  }
+
+  @media (max-width: $breakpoint_lg) {
+    margin: 15px 0;
   }
 }
 
@@ -16,6 +20,9 @@
 }
 
 .info__title {
+  margin-right: 100px;
+
+  font-family: $secondary_family;
   font-size: 3.9rem;
 
   &:before, &:after {
@@ -36,7 +43,15 @@
   }
 
   &:after {
-    right: -55px;
+    right: 43px;
+
+    @media (max-width: $breakpoint_xxl) {
+      right: -55px;
+    }
+  }
+
+  @media (max-width: $breakpoint_xxl) {
+    margin-right: 0;
   }
 
 }
@@ -57,12 +72,11 @@
   max-width: 500px;
   width: 100%;
 
-  font-family: $roboto_family;
   font-size: 1rem;
   font-weight: 400;
   color: $font_dark;
 
-  @media (max-width: $breakdown_xl) {
+  @media (max-width: $breakpoint_xl) {
     padding: 0 8px;
   }
 

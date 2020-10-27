@@ -10,7 +10,7 @@
 }
 
 .about__img {
-  width: 172%;
+  width: 100%;
 
   fill: $font_dark;
   opacity: .3;
@@ -20,10 +20,10 @@
   left: -47px;
   z-index: 1;
 
-  @media (max-width: $breakdown_xxl) {
+  @media (max-width: $breakpoint_xxl) {
     width: 100%;
 
-    top: -66px;
+    top: -69px;
     left: 9px;
   }
 }
