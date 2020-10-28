@@ -9,20 +9,23 @@
       <div class="contact__inner">
 
         <div class="contact__header">
-          <h4 class="contact__title">Say Hello!</h4>
+          <h4 class="contact__title">Get in Touch!</h4>
         </div>
 
         <form class="form" action="/" method="post">
-          <div class="form__group">
-            <input class="input" type="text" name="name" placeholder="Your name" required>
+          <div class="form__stack">
+            <div class="form__group form__group--contacts">
+              <input class="input input-contacts" type="text" name="name" placeholder="Your name" required>
+            </div>
+
+            <div class="form__group form__group--contacts">
+              <input class="input input-contacts" type="email" name="email" placeholder="Your email" required>
+            </div>
           </div>
 
           <div class="form__group">
-            <input class="input" type="email" name="email" placeholder="Your email" required>
-          </div>
-
-          <div class="form__group">
-            <textarea class="input input-textarea" name="text" placeholder="Message" required></textarea>
+            <textarea class="input input-textarea textarea__contacts" name="text" placeholder="Message"
+                      required></textarea>
           </div>
 
           <div class="button">
