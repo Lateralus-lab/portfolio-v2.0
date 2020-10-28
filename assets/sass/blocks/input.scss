@@ -1,12 +1,14 @@
 .input {
+  display: block;
   padding: 18px 20px;
   width: 100%;
 
   outline: 0;
   border: 0;
   border-bottom: 1px solid #0fbabd;
+  border-radius: 3px;
 
-  font-family: inherit;
+  font-family: $primary_family;
   font-size: .8rem;
   color: #373e42;
   font-weight: 400;
@@ -26,4 +28,12 @@
   &:focus {
     border-bottom: 2px solid #009688;
   }
+}
+
+.textarea__contacts {
+  max-width: 590px;
+  width: 100%;
+  min-width: 590px;
+  max-height: 600px;
+  min-height: 300px;
 }
