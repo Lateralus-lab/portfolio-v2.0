@@ -44,10 +44,15 @@
 
 .stack__circle_above {
   stroke: $bg_green;
-  stroke-dasharray: 251;
+  stroke-dasharray: 275;
 
   transition: stroke-dashoffset 1s ease;
-  transition-delay: .1s;
+  transition-delay: .5s;
+
+
+  &.animated {
+    animation: dash 10s ease;
+  }
 }
 
 .stack__title {
@@ -60,4 +65,13 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+}
+
+@keyframes dash {
+  from {
+    stroke-dasharray: 0;
+  }
+  to {
+    stroke-dasharray: 275;
+  }
 }
