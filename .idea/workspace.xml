@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/appAbout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer-sec.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer-sec.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/input.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/layouts/secondary.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/layouts/secondary.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <workItem from="1603809700896" duration="2436000" />
       <workItem from="1603869215815" duration="1916000" />
       <workItem from="1603911303258" duration="14738000" />
-      <workItem from="1603983535475" duration="8053000" />
+      <workItem from="1603983535475" duration="9010000" />
     </task>
     <servers />
   </component>
