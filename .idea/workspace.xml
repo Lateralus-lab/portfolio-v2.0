@@ -21,12 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/partials/header-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/header-about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,7 @@
       <workItem from="1603809700896" duration="2436000" />
       <workItem from="1603869215815" duration="1916000" />
       <workItem from="1603911303258" duration="14738000" />
-      <workItem from="1603983535475" duration="10400000" />
+      <workItem from="1603983535475" duration="11403000" />
     </task>
     <servers />
   </component>
