@@ -1,14 +1,15 @@
 .arrow__icon {
   width: 26px;
+  height: 26px;
 
   fill: $font_white;
 
   position: absolute;
   left: 60px;
-  bottom: -85%;
+  bottom: -70%;
 
   @media (max-width: $breakpoint_sm) {
-    bottom: -60%;
+    bottom: -50%;
   }
 }
 

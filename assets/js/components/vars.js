@@ -4,6 +4,7 @@ const burger = document.querySelector('.burger');
 const nav = document.querySelector('.nav');
 const navLinks = document.querySelectorAll('.nav__link');
 const modalData = document.querySelectorAll('[data-modal]');
+const arrowBtn = document.querySelector('.arrow__link');
 const trigger = document.querySelector('.content');
 const circles = document.querySelectorAll('.stack__circle_above');
 const modal = document.querySelector('.modal');
