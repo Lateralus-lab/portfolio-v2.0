@@ -28,6 +28,12 @@
 
   transition: fill .2s linear;
 
+  @media (max-width: $breakpoint_sm) {
+    width: 18px;
+    height: 18px;
+
+  }
+
   &:hover {
     fill: $bg_green-hover;
   }

@@ -36,4 +36,16 @@
   min-width: 590px;
   max-height: 600px;
   min-height: 300px;
+
+  @media (max-width: $breakpoint_md) {
+    min-width: 450px;
+    max-width: 450px;
+  }
+
+  @media (max-width: $breakpoint_sm) {
+    min-width: 380px;
+    max-width: 380px;
+    min-height: 230px;
+
+  }
 }
