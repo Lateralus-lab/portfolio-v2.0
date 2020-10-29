@@ -13,4 +13,8 @@
   font-size: 1rem;
   font-weight: 300;
   color: $font_white;
+
+  @media (max-width: $breakpoint_sm) {
+    font-size: .8rem;
+  }
 }

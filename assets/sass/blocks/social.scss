@@ -31,7 +31,13 @@
   @media (max-width: $breakpoint_sm) {
     width: 18px;
     height: 18px;
+  }
 
+  &--welcome {
+    @media (max-width: $breakpoint_sm) {
+      width: 26px;
+      height: 26px;
+    }
   }
 
   &:hover {
