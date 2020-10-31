@@ -28,8 +28,9 @@
 .contact__title {
   font-family: $secondary_family;
   font-size: 1.75rem;
+  letter-spacing: 1.6px;
   color: $font_dark;
-  font-weight: 900;
+  font-weight: 400;
   text-align: center;
 
   @media (max-width: $breakpoint_sm) {
