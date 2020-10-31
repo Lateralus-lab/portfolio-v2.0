@@ -15,9 +15,17 @@
 .triangle__left {
   width: 50%;
   fill: #efeee9;
+
+  &-projects {
+    fill: $font_white !important;
+  }
 }
 
 .triangle__right {
   width: 50%;
   fill: #eeebe0;
+
+  &-projects {
+    fill: $font_white !important;
+  }
 }
