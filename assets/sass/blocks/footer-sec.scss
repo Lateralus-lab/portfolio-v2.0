@@ -3,6 +3,10 @@
   padding: 30px 0;
 
   background-color: rgba(55, 62, 66, .85);
+
+  @media (max-width: $breakpoint_sm) {
+    padding: 20px 0;
+  }
 }
 
 .footer-sec__top {

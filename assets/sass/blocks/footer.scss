@@ -7,6 +7,10 @@
   margin-bottom: auto;
 
   background: rgba(0, 0, 0, .2);
+
+  @media (max-width: $breakpoint_sm) {
+    padding: 1rem 0;
+  }
 }
 
 .footer__copy {

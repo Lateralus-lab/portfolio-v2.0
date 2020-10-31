@@ -25,6 +25,10 @@
   width: 50%;
   fill: #eeebe0;
 
+  @media (max-width: $breakpoint_lg) {
+    fill: #efeee9;
+  }
+
   &-projects {
     fill: $font_white !important;
   }
