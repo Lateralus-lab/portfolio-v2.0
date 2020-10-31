@@ -20,9 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/work-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sass/blocks/projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/layouts/por.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tpl/partials/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/modal.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/welcome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/skills.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/triangles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/triangles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/about-content.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/about-content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/nav.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +50,14 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/fonts/Montserrat" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/projects" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects" />
       <recent name="$PROJECT_DIR$/assets/fonts/Montserrat" />
       <recent name="$PROJECT_DIR$/assets/fonts/bernier" />
       <recent name="$PROJECT_DIR$/assets/img" />
@@ -77,7 +86,8 @@
       <workItem from="1603809700896" duration="2436000" />
       <workItem from="1603869215815" duration="1916000" />
       <workItem from="1603911303258" duration="14738000" />
-      <workItem from="1603983535475" duration="11403000" />
+      <workItem from="1603983535475" duration="15138000" />
+      <workItem from="1604099162506" duration="4986000" />
     </task>
     <servers />
   </component>

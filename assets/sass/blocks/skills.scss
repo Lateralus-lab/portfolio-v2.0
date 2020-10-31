@@ -1,6 +1,4 @@
 .skills {
-  display: flex;
-  justify-content: space-between;
   position: relative;
   z-index: 100;
 }
@@ -13,6 +11,13 @@
   @media (max-width: $breakpoint_lg) {
     flex-direction: column;
     justify-content: center;
+  }
+}
+
+.skills__inner--projects {
+
+  @media (max-width: $breakpoint_lg) {
+    flex-direction: column-reverse;
   }
 }
 
@@ -36,6 +41,17 @@
 
   @media (max-width: $breakpoint_lg) {
     width: 100%;
+  }
+}
+
+.skills__item--projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  @media (max-width: $breakpoint_lg) {
+    flex-direction: column-reverse;
   }
 }
 
