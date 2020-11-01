@@ -21,10 +21,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0a0746f3-807b-4b2d-b0de-34634dda27f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/arrow.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/arrow.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/section.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tpl/partials/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/footer-sec.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/footer-sec.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/input.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/input.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/blocks/social.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/blocks/social.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/bottom.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/bottom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/footer-sec.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/footer-sec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tpl/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/tpl/partials/head.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +89,9 @@
       <workItem from="1603983535475" duration="15138000" />
       <workItem from="1604099162506" duration="11119000" />
       <workItem from="1604170965230" duration="847000" />
-      <workItem from="1604173628964" duration="1155000" />
+      <workItem from="1604173628964" duration="2265000" />
+      <workItem from="1604251289939" duration="2126000" />
+      <workItem from="1604254402785" duration="3169000" />
     </task>
     <servers />
   </component>

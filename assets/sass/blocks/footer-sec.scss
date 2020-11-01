@@ -30,13 +30,17 @@
   }
 
   @media (max-width: $breakpoint_sm) {
-    font-size: .6rem;
+    display: none;
   }
 }
 
 .footer-sec__social {
   max-width: 205px;
   width: 100%;
+
+  @media (max-width: $breakpoint_sm) {
+    max-width: 100%;
+  }
 }
 
 .footer-sec__bottom {

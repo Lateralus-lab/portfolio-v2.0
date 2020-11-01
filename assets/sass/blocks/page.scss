@@ -21,6 +21,10 @@
     opacity: .7;
 
     background-attachment: fixed;
+
+    @media (max-width: $breakpoint_sm) {
+      background-attachment: local;
+    }
   }
 }
 
