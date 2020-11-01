@@ -6,10 +6,10 @@
 
   position: absolute;
   left: 60px;
-  bottom: -70%;
+  bottom: -40%;
 
   @media (max-width: $breakpoint_sm) {
-    bottom: -50%;
+    bottom: -30%;
   }
 }
 

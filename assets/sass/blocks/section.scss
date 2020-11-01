@@ -7,10 +7,10 @@
   margin-top: 70px;
   margin-bottom: 380px;
 
-  font-family: $secondary_family;
-  font-size: 3.9rem;
-  font-weight: 900;
-  color: $title_color;
+  font-family: $primary_family;
+  font-size: 3.9375rem;
+  font-weight: 400;
+  letter-spacing: 1.6px;
   text-transform: uppercase;
   text-align: center;
 
@@ -23,6 +23,6 @@
   @media (max-width: $breakpoint_sm) {
     margin-top: 40px;
     margin-bottom: 70px;
-    font-size: 2.5rem;
+    font-size: 2.2rem;
   }
 }
