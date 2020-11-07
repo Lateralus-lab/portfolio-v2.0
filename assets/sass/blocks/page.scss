@@ -22,7 +22,7 @@
 
     background-attachment: fixed;
 
-    @media (max-width: $breakpoint_sm) {
+    @media (max-width: $breakpoint_lg) {
       background-attachment: local;
     }
   }

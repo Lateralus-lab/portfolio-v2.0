@@ -6,6 +6,7 @@
 .skills__inner {
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
 
   @media (max-width: $breakpoint_lg) {
@@ -25,7 +26,7 @@
   width: 50%;
 
   &:first-child {
-    background-color: #EFEEE9;
+    background-color: #eeebe0;
   }
 
   &:last-child {
@@ -49,6 +50,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  background-color: #EDECE7;
 
   @media (max-width: $breakpoint_lg) {
     flex-direction: column-reverse;
