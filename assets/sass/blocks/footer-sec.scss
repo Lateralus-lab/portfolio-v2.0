@@ -12,7 +12,22 @@
 .footer-sec__top {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 
+  @media (max-width: $breakpoint_sm) {
+    flex-direction: column;
+  }
+}
+
+
+.footer-sec__links {
+  @media (max-width: $breakpoint_sm) {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 30px;
+  }
 }
 
 .footer-sec__link {
@@ -22,6 +37,7 @@
   font-weight: 500;
   color: $font_white;
   text-decoration: none;
+  text-transform: uppercase;
 
   transition: color .2s linear;
 
@@ -30,7 +46,8 @@
   }
 
   @media (max-width: $breakpoint_sm) {
-    display: none;
+    margin-left: 1rem;
+    font-size: .8rem;
   }
 }
 

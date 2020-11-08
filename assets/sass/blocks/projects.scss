@@ -45,6 +45,11 @@
     margin-top: 10px;
     font-size: 1.8rem;
   }
+
+  @media (max-width: $breakpoint_sm) {
+    font-size: 1.5rem;
+    text-align: center;
+  }
 }
 
 .projects__desc {

@@ -10,6 +10,12 @@
   text-align: left;
 }
 
+.stack-row__list {
+  @media (max-width: $breakpoint_sm) {
+    text-align: center;
+  }
+}
+
 .stack-row__item {
   display: inline-block;
   margin-right: 30px;

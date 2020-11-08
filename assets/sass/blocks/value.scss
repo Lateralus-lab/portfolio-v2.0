@@ -6,6 +6,10 @@
   @media (max-width: $breakpoint_xxl) {
     margin-top: 20px;
   }
+
+  @media (max-width: $breakpoint_sm) {
+    padding: 0 40px;
+  }
 }
 
 .value__item {
